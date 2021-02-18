@@ -3,16 +3,15 @@ A Full Stack Web Developer offering 3+ years of experience in the full software 
 
 ## Projects 🎨 
 
-#### love4heroes - [Repo](https://github.com/raaynaldo/love4heroes) | [App](love4heroes.online/) | [Demo](https://youtu.be/5WN3ZmU_dZ8)
+#### love4heroes - [Repo](https://github.com/raaynaldo/love4heroes) | [App](love4heroes.online/) | [Demo](https://youtu.be/5WN3ZmU_dZ8) | [DevPost](https://devpost.com/software/love4heroes)
 
 ❤️  An app to send thank you cards to frontline workers. The mission of this app is to let people share gratitude for frontline workers. 
 
-> project for uOttahack and win a prize from delloite
+> Project for uOttahack and win a prize from Deloitte
 
 #### Jot Down! -  [Repo](https://github.com/raaynaldo/jot-down-front) | [App](https://jot-down-phase5-project.netlify.app/) | [Demo](https://youtu.be/9tBKWJMjKSs)  
 
 > Flatiron Final Project
-
 
 📝 A markdown(.md) web application in which users can write, edit, organize, and easily search their markdown documents.
 

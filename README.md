@@ -11,9 +11,15 @@ A Full Stack Web Developer offering 3+ years of experience in the full software 
 
 #### Jot Down! -  [Repo](https://github.com/raaynaldo/jot-down-front) | [App](https://jot-down-phase5-project.netlify.app/) | [Demo](https://youtu.be/9tBKWJMjKSs)  
 
-> Flatiron Final Project
+📝 A markdown(.md) web application in which users can write, edit, organize and easily search their markdown documents.
 
-📝 A markdown(.md) web application in which users can write, edit, organize, and easily search their markdown documents.
+> Flatiron Final Project
+ 
+#### Gitulize -  [Repo](https://github.com/raaynaldo/gitulize-frontend) | [App](https://gitulize.netlify.app/) | [Demo](https://youtu.be/m6z_uEF5wyM)  
+
+Git can be a bit ephemeral at times and that’s exactly when a visualizer can help us understand what’s going on under the hood of each git command. A few common git commands visualized - including git add, and git commit.
+
+> Flatiron Phase 3 Project with [Jake Short](https://github.com/jrshort89)
 
 ## Skills 💻  ##
 
@@ -38,7 +44,7 @@ A Full Stack Web Developer offering 3+ years of experience in the full software 
 <br />
 <br />
 
-## Get in touch 📫 
+## How to reach me 📫 
 
 <a href="https://www.linkedin.com/in/teofilusraynaldo/" rel="nofollow">
   <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="40" width="40" style="max-width:100%;">
@@ -47,7 +53,19 @@ A Full Stack Web Developer offering 3+ years of experience in the full software 
 <a href="https://dev.to/raaynaldo" rel="nofollow">
   <img align="left" src="https://cdn.worldvectorlogo.com/logos/devto.svg" height="40" width="40" style="max-width:100%;">
 </a>
-  
+
+<br />
+<br />
+
+## Github Profile
+
+<a href="https://github.com/raaynaldo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raaynaldo&theme=react&layout=compact" alt="raaynaldo's github stats"/>
+</a>
+
+<a href="https://github.com/raaynaldo">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=raaynaldo&show_icons=true&theme=react&line_height=20" alt="raaynaldo's github stats"/>
+</a>
 
 
 <!--

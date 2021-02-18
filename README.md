@@ -1,4 +1,13 @@
-## Hi, I'm Ray 👋 
+<a href="https://github.com/raaynaldo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raaynaldo&theme=react&layout=compact" alt="raaynaldo's github stats"/>
+</a>
+
+<a href="https://github.com/raaynaldo">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=raaynaldo&show_icons=true&theme=react&line_height=20" alt="raaynaldo's github stats"/>
+</a>
+
+
+## Hi, I'm Ray <img src="https://user-images.githubusercontent.com/10743728/100195412-e2ca3780-2f29-11eb-98b0-26af8496f704.gif" width="36px" /> 
 A Full Stack Web Developer offering 3+ years of experience in the full software development lifecycle experienced in Ruby on Rails, ASP.NET, JavaScript, and React.
 
 ## Projects 🎨 
@@ -53,20 +62,6 @@ Git can be a bit ephemeral at times and that’s exactly when a visualizer can h
 <a href="https://dev.to/raaynaldo" rel="nofollow">
   <img align="left" src="https://cdn.worldvectorlogo.com/logos/devto.svg" height="40" width="40" style="max-width:100%;">
 </a>
-
-<br />
-<br />
-
-## Github Profile
-
-<a href="https://github.com/raaynaldo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raaynaldo&theme=react&layout=compact" alt="raaynaldo's github stats"/>
-</a>
-
-<a href="https://github.com/raaynaldo">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=raaynaldo&show_icons=true&theme=react&line_height=20" alt="raaynaldo's github stats"/>
-</a>
-
 
 <!--
 **raaynaldo/raaynaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

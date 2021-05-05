@@ -55,13 +55,18 @@ Git can be a bit ephemeral at times and that’s exactly when a visualizer can h
 
 ## How to reach me 📫 
 
-<a href="https://www.linkedin.com/in/teofilusraynaldo/" rel="nofollow">
+<a href="https://www.linkedin.com/in/teofilusraynaldo/" rel="nofollow" target="_blank">
   <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="40" width="40" style="max-width:100%;">
 </a>
   
-<a href="https://dev.to/raaynaldo" rel="nofollow">
+<a href="https://dev.to/raaynaldo" rel="nofollow" target="_blank">
   <img align="left" src="https://cdn.worldvectorlogo.com/logos/devto.svg" height="40" width="40" style="max-width:100%;">
 </a>
+
+<a href="https://raaynaldo.medium.com/" rel="nofollow" target="_blank">
+  <img align="left" src="https://raw.githubusercontent.com/raaynaldo/raaynaldo/606e00ea88d5bbaba827be2b0b7865e1cb13d3c2/medium-logo.svg" height="40" width="40" style="max-width:100%;">
+</a>
+
 
 <!--
 **raaynaldo/raaynaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

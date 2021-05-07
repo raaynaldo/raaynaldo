@@ -12,7 +12,7 @@ A Full Stack Web Developer offering 3+ years of experience in the full software 
 
 ## Projects 🎨 
 
-#### love4heroes - [Repo](https://github.com/raaynaldo/love4heroes) | [App](love4heroes.online/) | [Demo](https://youtu.be/5WN3ZmU_dZ8) | [DevPost](https://devpost.com/software/love4heroes)
+#### love4heroes - [Repo](https://github.com/raaynaldo/love4heroes) | [App](https://love4heroes.online/) | [Demo](https://youtu.be/5WN3ZmU_dZ8) | [DevPost](https://devpost.com/software/love4heroes)
 
 An app to send thank you cards to frontline workers. The mission of this app is to let people share gratitude for frontline workers. 
 

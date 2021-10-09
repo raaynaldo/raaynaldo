@@ -6,6 +6,8 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raaynaldo&show_icons=true&theme=react&line_height=20" alt="raaynaldo's github stats"/>
 </a>
 
+![](https://komarev.com/ghpvc/?username=raaynaldo&style=flat-square)
+
 
 ## Hi, I'm Ray <img src="https://user-images.githubusercontent.com/10743728/100195412-e2ca3780-2f29-11eb-98b0-26af8496f704.gif" width="36px" /> 
 A Full Stack Web Developer offering 3+ years of experience in the full software development lifecycle experienced in Ruby on Rails, ASP.NET, JavaScript, and React.

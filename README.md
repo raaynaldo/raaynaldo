@@ -44,8 +44,6 @@ Git can be a bit ephemeral at times and that’s exactly when a visualizer can h
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="40" width="40" style="max-width:100%;">
 
-<img align="left" src="https://react-query.tanstack.com/_next/static/images/emblem-light-5d1cdce6c8bbb006ac6cefb8e1642877.svg" height="40" width="40" style="max-width:100%;">
-
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40" width="40" style="max-width:100%;">
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" height="40" width="40" style="max-width:100%;">
